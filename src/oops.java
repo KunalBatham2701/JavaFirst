@@ -4,7 +4,7 @@ public class oops{ // you can extend Java_inheritence2 here and it will be mulit
 //    int id,no=10;
 //    String place,name="rahul";
 //    float bonus= 10000;
-//    void run(){          // it will override the base class method
+//    void run(){          // it will override the base class methodq
 //        System.out.println("main is running");
 //        super.run(); // use super if you want to acces the method from base class
         // to call the constructor of base class just use super();
